@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Semana-LP",
+    "name": "Masterclass Agência Digital Sem Gastar Nada - 17 a 20 de agosto",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,15 @@
     "imageResize": true,
     "uniqCompNum": 13,
     "versionPublish": "5.0.16",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/color-128x128.png",
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {

@@ -662,6 +662,24 @@ section.lazy-placeholder:after {
 .cid-s5uK7cegX4 P {
   color: #767676;
 }
+.cid-s5vlqGyrZX {
+  background: #232323;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s5vlqGyrZX .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s5vlqGyrZX .video-block {
+    width: 100% !important;
+  }
+}
+.cid-s5vmwEjZnS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
 .cid-s5uJiHoBGw {
   padding-top: 90px;
   padding-bottom: 90px;
